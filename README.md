@@ -1,5 +1,7 @@
-Code Depot Presents: Image Downloader and Displayer 🌟
+Image Downloader and Displayer 🌟
+
 Download and display images from the internet using Python. This project is part of the Code Depot exclusive series, aimed to enhance your programming skills.
+
 
 Table of Contents
 Introduction
@@ -13,6 +15,7 @@ License
 Introduction
 The project demonstrates how to download images from specified URLs and display them using OpenCV. It's a great starting point for anyone interested in image processing, web scraping, or automating the downloading process for images.
 
+
 Features
 📥 Download images from URLs
 🖼️ Display images using OpenCV
@@ -25,13 +28,17 @@ OpenCV
 NumPy
 
 
+
 How It Works
 The script uses Python's urllib.request library to fetch the image data from a given URL. It then utilizes NumPy to convert this data into an array format that OpenCV can understand. Finally, it displays the image using OpenCV.
 
+
 For more details, check out the well-commented script.
+
 
 Support
 If you like this project, consider supporting us on Patreon.
+
 
 For any questions or issues, please open an issue or submit a pull request.
 
