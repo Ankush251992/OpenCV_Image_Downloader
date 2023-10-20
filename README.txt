@@ -2,7 +2,7 @@
 Image Downloader and Displayer
 ===============================
 
-Download and display images from the internet using Python. This project is part of the Code Depot exclusive series, aimed to enhance your programming skills.
+Download and display images from the internet using Python.
 
 --------------------------------
 Table of Contents
@@ -41,14 +41,14 @@ The project demonstrates how to download images from specified URLs and display 
 4. Quick Start
 --------------------------------
 1. Clone this repository
-   git clone https://github.com/CodeDepot/URL-to-Image-Project.git
+   git clone https://github.com/Ankush251992/OpenCV_Image_Downloader.git
   
 2. Navigate to the project directory and install the required packages
-   cd URL-to-Image-Project
+   cd OpenCV_Image_Downloader
    pip install -r requirements.txt
 
 3. Run the script
-   python url_to_image.py
+   python url2image.py
 
 --------------------------------
 5. How It Works
